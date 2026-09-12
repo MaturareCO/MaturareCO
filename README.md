@@ -1,39 +1,54 @@
 <div align="center">
-  <img src="logo.png" alt="Maturare" width="160" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="maturare-white.png">
+    <img alt="Maturare" src="maturare-black.png" width="72">
+  </picture>
 
   <h1>Maturare</h1>
 
-  <p><strong>Automação e inteligência artificial para vendas e conteúdo.</strong></p>
+  <p><strong>Agência de SEO, GEO e AEO.</strong></p>
 
-  <p>Transformamos processos manuais em operações que rodam sozinhas — prospecção,<br />
-  relacionamento e produção de conteúdo com software, IA e automação.</p>
+  <p>Posicionamos sua empresa onde as decisões de compra começam:<br>
+  no Google e nas inteligências artificiais.</p>
 
   <a href="https://maturare.com.br">maturare.com.br</a> &nbsp;·&nbsp;
-  <a href="mailto:admin@maturare.com.br">admin@maturare.com.br</a>
+  <a href="https://wa.me/5521990770731">WhatsApp</a> &nbsp;·&nbsp;
+  <a href="mailto:contato@maturare.com.br">contato@maturare.com.br</a>
 </div>
 
 ---
 
-## O que construímos
+Agência de busca orgânica fundada em 2022, em Niterói (RJ). Criamos estratégia de presença no
+Google e nas IAs para empresas que querem crescer sem depender de tráfego pago.
 
-### Maturare Leads — prospecção B2B automatizada
+## O que fazemos
 
-Encontra empresas locais e perfis sociais, valida números de WhatsApp, calcula o
-**Maturare Score** de qualidade do lead e organiza tudo num mini-CRM (kanban, notas,
-follow-up) com cadências de disparo automáticas.
+**Criação de sites otimizados para SEO**
+Sites estruturados para aparecer no Google, serem lidos pelas IAs e atrair o cliente certo.
 
-`Vanilla JS` · `Supabase` · `n8n` · `Evolution API` · `Google Gemini` · `Serper`
+**Otimização de buscas para IA**
+Sua empresa citada pelo ChatGPT, Perplexity e Gemini quando o cliente busca o que você oferece.
 
-### Maturare Briefing — coleta de briefing editorial com IA
+**SEO para negócios locais**
+Transformamos pesquisas "perto de mim" em clientes — no Google Maps e no Google Meu Negócio.
 
-Plataforma SaaS multi-tenant: um pipeline diário pesquisa concorrentes, gera um rascunho
-com IA e coleta o briefing de especialistas por WhatsApp — em texto, áudio ou anexo — com
-painel administrativo, autenticação e isolamento por cliente.
+**Produção de conteúdo para SEO**
+Cada página publicada é um ativo que trabalha pelo negócio, reduzindo a dependência de tráfego pago.
 
-`Supabase` · `Edge Functions` · `n8n` · `Claude` · `Notion`
+## Especialidades
+
+`SEO` · `GEO — Generative Engine Optimization` · `AEO — Answer Engine Optimization` ·
+`SEO local` · `SEO para B2B` · `SEO para SaaS` · `SEO para clínicas` · `SEO para contadores`
+
+## Onde nos encontrar
+
+- **Site** — https://maturare.com.br
+- **Instagram** — https://www.instagram.com/maturare.com.br/
+- **LinkedIn** — https://br.linkedin.com/in/maturare-seo-b65561269
+- **YouTube** — https://www.youtube.com/@googledominado1
 
 ---
 
 <div align="center">
-  <sub>Projetos privados · <a href="mailto:admin@maturare.com.br">fale com a gente</a></sub>
+  <sub>Maturare Gestão &amp; Marketing Estratégico Ltda · CNPJ 47.336.340/0001-51 · Niterói, RJ</sub>
 </div>
